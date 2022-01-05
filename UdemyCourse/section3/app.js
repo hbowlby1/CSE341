@@ -1,13 +1,14 @@
 const http = require('http');
 
+const routes = require('./routes');
+
+
 // function rqListener(req, res){
 
 // }
 
-const server = http.createServer((req, res) => {
-    console.log(req);
-    //don't call this if you don't want the website to go down
-    //process.exit();
-});
+console.log(routes.someText);
+
+const server = http.createServer(routes.handler);
 
 server.listen(3000);
