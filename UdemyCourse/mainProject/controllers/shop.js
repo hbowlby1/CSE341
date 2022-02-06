@@ -43,11 +43,10 @@ exports.getIndex = (req, res, next) => {
     });
 };
 
-exports.getCart = async (req, res, next) => {
-  await req.user
+exports.getCart = (req, res, next) => {
+  req.user
     .populate('cart.items.productId')
     .then(user => {
-      console.log(user.cart.items);
       const products = user.cart.items;
       res.render('shop/cart', {
         path: '/cart',
@@ -89,7 +88,7 @@ exports.postOrder = (req, res, next) => {
       });
       const order = new Order({
         user: {
-          name: req.user.name,
+          email: req.user.email,
           userId: req.user
         },
         products: products
