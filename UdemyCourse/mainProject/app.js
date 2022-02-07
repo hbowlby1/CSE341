@@ -1,5 +1,4 @@
 const path = require('path');
-const PORT = process.env.PORT || 5000
 
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -28,18 +27,6 @@ app.set('views', 'views');
 const adminRoutes = require('./routes/admin');
 const shopRoutes = require('./routes/shop');
 const authRoutes = require('./routes/auth');
-
-//setting up connection in Heroku for MongoDb
-const cors = require('cors');
-const corsOptions = {
-  origin: 'https://bowlby-cse341.herokuapp.com/',
-  optionSuccessStatus: 200
-};
-app.use(cors(corsOptions));
-
-const options = {
-  family: 4
-};
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'public')));
@@ -81,7 +68,7 @@ app.use(errorController.get404);
 mongoose
   .connect(MONGODB_URI)
   .then(result => {
-    app.listen(PORT);
+    app.listen(5000);
   })
   .catch(err => {
     console.log(err);
