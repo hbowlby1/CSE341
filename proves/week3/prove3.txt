@@ -1,0 +1,31 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+	a) There wasn't anything for Heroku for this week.
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+	a) https://github.com/hbowlby1/CSE341
+
+3. Briefly list and describe the elements of the application that are functioning.
+	a) Everything should be up and running because I followed along with the videos.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+	a) Everything is working correctly.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+	a) I liked the section on MVC. I've used it before in previous classes but I didn't have a great understanding of it until this class. It's a great way to structure code and to seperate code so that everything does it own thing. Combining everything in one file is not only bad practice but can be confusing for other programmers who did not develop your program but need to understand what it does.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+	a) I would not change how the assignments are being done.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+	a) 4
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+	a) I just followed along in the videos and did the assignments. I didn't really add anything to make the assignments stand out.

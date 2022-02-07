@@ -1,0 +1,28 @@
+1. Copy and paste the URL for your web application (e.g., Heroku): https://bowlby-cse341.herokuapp.com/
+
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):https://github.com/hbowlby1/CSE341
+
+
+3. Briefly list and describe the elements of the application that are functioning. 
+	Everything should be functioning, the logins, signups, encryptions and emails.
+
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+	As far as I am aware everything is working.
+
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+	I found hashing passwords to be pretty cool. I thought it would have been a complicated process but it's a simple line of code.
+
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+	Unless the instructor of the video tutorials actually provides updated code, then there is nothing to change about the assignment.
+
+
+7. Please select the category you feel best describes your assignment:
+requirements
+   a) 4
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+	I just followed the videos and anything the instructor added I added.
