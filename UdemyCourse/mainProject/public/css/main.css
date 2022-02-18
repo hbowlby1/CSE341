@@ -8,6 +8,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Open Sans', sans-serif;
+  background-color:#1a1f1e;
+  color: white;
 }
 
 main {
@@ -34,7 +36,7 @@ form {
 .main-header {
   width: 100%;
   height: 3.5rem;
-  background-color: #00695c;
+  background-color: #46635d;
   padding: 0 1.5rem;
   display: flex;
   align-items: center;
@@ -246,6 +248,15 @@ form {
   border-color: red;
   background: rgb(255, 176, 176);
   color: red;
+}
+
+.resetLink{
+  color: white;
+}
+
+.resetLink:hover{
+  background-color: white;
+  color:#1a1f1e;
 }
 
 @media (min-width: 768px) {

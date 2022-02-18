@@ -1,0 +1,28 @@
+1. Copy and paste the URL for your web application (e.g., Heroku): https://bowlby-cse341.herokuapp.com/
+
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):https://github.com/hbowlby1/CSE341
+
+
+3. Briefly list and describe the elements of the application that are functioning. 
+	Everything should be functioning, error checking, 500 page and validation in both client and server-sided.
+
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+	Only thing not working is the email but that just requires inputting a correct api key and a correct sender email.
+
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+	Validation is always really cool to learn. Making an interactive website more interactive by telling users whats incorrect is awesome. Especially with color indicators and error messages.
+
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+	There is nothing I would change in this assignment.
+
+
+7. Please select the category you feel best describes your assignment:
+requirements
+   a) 4
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+	I just followed the videos and anything the instructor added I added.
