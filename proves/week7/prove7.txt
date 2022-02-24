@@ -1,0 +1,28 @@
+1. Copy and paste the URL for your web application (e.g., Heroku):
+	https://bowlby-cse341.herokuapp.com/
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+	https://github.com/hbowlby1/CSE341
+
+3. Briefly list and describe the elements of the application that are functioning. 
+	Everything from the videos is functioning.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+	I could not find anything that is not working.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+	I did not learn anything new this week but my scheduled plan is to finish the Udemy videos to better understand the material in the course.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+	I feel this assignment was perfect and a great intro for whats to come the rest of the semester.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+	4
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+	I know I need a lot more practice to fully take in what I learned. In the meantime the only changes I made were cosmetic to make the site easier on the eyes.
