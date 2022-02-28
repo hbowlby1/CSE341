@@ -1,0 +1,32 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+	Did not need to upload this to Heroku.
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+	https://github.com/hbowlby1/CSE341
+
+
+3. Briefly list and describe the elements of the application that are functioning.
+	Everything is functioning, I copied and pasted the video code to work with my code. Then set up the controller feed.js to input the data that is being requested in both the index.html and script.js.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+	Everything is working correctly.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+	Coolest thing I learned was how to use REST API's to connect to and send information to a server. Also, how to fix the CORS error which I've always seen but never knew about.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+	I would not change anything about this assignment.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+	4
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+	I did not add anything special or more to the project. I just wanted to get it working and have a 200 response from my GET request.
